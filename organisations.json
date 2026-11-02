@@ -1,0 +1,1056 @@
+{
+  "_how_to_edit": "Each organisation is one block between { }. 'icon' is a Simple Icons name (leave blank \"\" for an initials badge). 'status' is \"ok\" or \"verify\" (link not yet checked).",
+  "organisations": [
+    {
+      "name": "The Royal College of Radiologists",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK professional body for clinical radiology and clinical oncology; training, FRCR exams and CPD.",
+      "url": "https://www.rcr.ac.uk",
+      "icon": "",
+      "initials": "RCR",
+      "status": "ok"
+    },
+    {
+      "name": "British Institute of Radiology",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Multidisciplinary UK radiology society; publishes BJR and runs education events.",
+      "url": "https://www.bir.org.uk",
+      "icon": "",
+      "initials": "BIR",
+      "status": "ok"
+    },
+    {
+      "name": "Society and College of Radiographers",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Professional body and trade union for UK radiographers.",
+      "url": "https://www.sor.org",
+      "icon": "",
+      "initials": "SCoR",
+      "status": "ok"
+    },
+    {
+      "name": "British Society of Interventional Radiology",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK society for interventional radiology; annual meeting and registries.",
+      "url": "https://www.bsir.org",
+      "icon": "",
+      "initials": "BSIR",
+      "status": "ok"
+    },
+    {
+      "name": "British Society of Neuroradiologists",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK specialist society for diagnostic and interventional neuroradiology.",
+      "url": "https://www.bsnr.org.uk",
+      "icon": "",
+      "initials": "BSNR",
+      "status": "verify"
+    },
+    {
+      "name": "British Society of Thoracic Imaging",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK society for chest and cardiothoracic imaging.",
+      "url": "https://www.bsti.org.uk",
+      "icon": "",
+      "initials": "BSTI",
+      "status": "ok"
+    },
+    {
+      "name": "British Society of Gastrointestinal and Abdominal Radiology",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK society for GI and abdominal imaging.",
+      "url": "https://www.bsgar.org",
+      "icon": "",
+      "initials": "BSGAR",
+      "status": "verify"
+    },
+    {
+      "name": "British Society of Skeletal Radiologists",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK society for musculoskeletal imaging.",
+      "url": "https://www.bssr.org.uk",
+      "icon": "",
+      "initials": "BSSR",
+      "status": "verify"
+    },
+    {
+      "name": "British Medical Ultrasound Society",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK multidisciplinary society for medical ultrasound.",
+      "url": "https://www.bmus.org",
+      "icon": "",
+      "initials": "BMUS",
+      "status": "ok"
+    },
+    {
+      "name": "Royal College of Physicians",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Professional body for physicians in the UK.",
+      "url": "https://www.rcp.ac.uk",
+      "icon": "",
+      "initials": "RCP",
+      "status": "ok"
+    },
+    {
+      "name": "Royal College of Surgeons of England",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Professional body for surgeons in England and Wales.",
+      "url": "https://www.rcseng.ac.uk",
+      "icon": "",
+      "initials": "RCS",
+      "status": "ok"
+    },
+    {
+      "name": "Academy of Medical Royal Colleges",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Coordinating body for the UK medical royal colleges and faculties.",
+      "url": "https://www.aomrc.org.uk",
+      "icon": "",
+      "initials": "AoMRC",
+      "status": "ok"
+    },
+    {
+      "name": "British Medical Association",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Trade union and professional association for UK doctors.",
+      "url": "https://www.bma.org.uk",
+      "icon": "",
+      "initials": "BMA",
+      "status": "ok"
+    },
+    {
+      "name": "Medical Defence Union",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "UK medical indemnity and medico-legal advice.",
+      "url": "https://www.themdu.com",
+      "icon": "",
+      "initials": "MDU",
+      "status": "ok"
+    },
+    {
+      "name": "Medical Protection Society",
+      "category": "UK Radiology & Medical Bodies",
+      "description": "Medical indemnity and medico-legal support for doctors.",
+      "url": "https://www.medicalprotection.org",
+      "icon": "",
+      "initials": "MPS",
+      "status": "ok"
+    },
+    {
+      "name": "Radiological Society of North America",
+      "category": "International Radiology Societies & Congresses",
+      "description": "Major international radiology society; annual meeting in Chicago; publishes Radiology.",
+      "url": "https://www.rsna.org",
+      "icon": "",
+      "initials": "RSNA",
+      "status": "ok"
+    },
+    {
+      "name": "European Society of Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "Umbrella European radiology society; education, guidelines and EuroSafe Imaging.",
+      "url": "https://www.myesr.org",
+      "icon": "",
+      "initials": "ESR",
+      "status": "ok"
+    },
+    {
+      "name": "European Congress of Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "ESR's annual congress in Vienna.",
+      "url": "https://www.myesr.org/congress",
+      "icon": "",
+      "initials": "ECR",
+      "status": "verify"
+    },
+    {
+      "name": "European Board of Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "Runs the European Diploma in Radiology (EDiR).",
+      "url": "https://www.myebr.org",
+      "icon": "",
+      "initials": "EBR",
+      "status": "verify"
+    },
+    {
+      "name": "American College of Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "US radiology body; ACR Appropriateness Criteria and RADS systems.",
+      "url": "https://www.acr.org",
+      "icon": "",
+      "initials": "ACR",
+      "status": "ok"
+    },
+    {
+      "name": "American Roentgen Ray Society",
+      "category": "International Radiology Societies & Congresses",
+      "description": "US radiology society; publishes AJR.",
+      "url": "https://www.arrs.org",
+      "icon": "",
+      "initials": "ARRS",
+      "status": "ok"
+    },
+    {
+      "name": "International Society for Magnetic Resonance in Medicine",
+      "category": "International Radiology Societies & Congresses",
+      "description": "International MR physics and clinical MRI society.",
+      "url": "https://www.ismrm.org",
+      "icon": "",
+      "initials": "ISMRM",
+      "status": "ok"
+    },
+    {
+      "name": "European Society of Neuroradiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "European society for diagnostic and interventional neuroradiology.",
+      "url": "https://www.esnr.org",
+      "icon": "",
+      "initials": "ESNR",
+      "status": "ok"
+    },
+    {
+      "name": "American Society of Neuroradiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "US neuroradiology society; publishes AJNR.",
+      "url": "https://www.asnr.org",
+      "icon": "",
+      "initials": "ASNR",
+      "status": "ok"
+    },
+    {
+      "name": "Cardiovascular and Interventional Radiological Society of Europe",
+      "category": "International Radiology Societies & Congresses",
+      "description": "European interventional radiology society and congress.",
+      "url": "https://www.cirse.org",
+      "icon": "",
+      "initials": "CIRSE",
+      "status": "ok"
+    },
+    {
+      "name": "European Society of Thoracic Imaging",
+      "category": "International Radiology Societies & Congresses",
+      "description": "European society for chest imaging.",
+      "url": "https://www.myesti.org",
+      "icon": "",
+      "initials": "ESTI",
+      "status": "verify"
+    },
+    {
+      "name": "European Society of Musculoskeletal Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "European society for MSK imaging.",
+      "url": "https://www.essr.org",
+      "icon": "",
+      "initials": "ESSR",
+      "status": "ok"
+    },
+    {
+      "name": "European Society of Urogenital Radiology",
+      "category": "International Radiology Societies & Congresses",
+      "description": "European society for urogenital imaging; contrast media guidelines.",
+      "url": "https://www.esur.org",
+      "icon": "",
+      "initials": "ESUR",
+      "status": "ok"
+    },
+    {
+      "name": "Royal Australian and New Zealand College of Radiologists",
+      "category": "International Radiology Societies & Congresses",
+      "description": "Professional body for radiology and radiation oncology in Australia and New Zealand.",
+      "url": "https://www.ranzcr.com",
+      "icon": "",
+      "initials": "RANZCR",
+      "status": "ok"
+    },
+    {
+      "name": "World Health Organization",
+      "category": "International Radiology Societies & Congresses",
+      "description": "UN agency for international public health.",
+      "url": "https://www.who.int",
+      "icon": "",
+      "initials": "WHO",
+      "status": "ok"
+    },
+    {
+      "name": "General Medical Council",
+      "category": "Regulators, NHS & Government",
+      "description": "UK regulator for doctors; registration, revalidation and specialist registration.",
+      "url": "https://www.gmc-uk.org",
+      "icon": "",
+      "initials": "GMC",
+      "status": "ok"
+    },
+    {
+      "name": "GMC Portfolio Pathway (formerly CESR)",
+      "category": "Regulators, NHS & Government",
+      "description": "GMC guidance for specialist registration via the portfolio pathway.",
+      "url": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/specialist-and-gp-applications-guidance",
+      "icon": "",
+      "initials": "CESR",
+      "status": "verify"
+    },
+    {
+      "name": "NHS (health information)",
+      "category": "Regulators, NHS & Government",
+      "description": "Official NHS website for patients and the public.",
+      "url": "https://www.nhs.uk",
+      "icon": "",
+      "initials": "NHS",
+      "status": "ok"
+    },
+    {
+      "name": "NHS England",
+      "category": "Regulators, NHS & Government",
+      "description": "Leads the NHS in England; policy, commissioning and workforce.",
+      "url": "https://www.england.nhs.uk",
+      "icon": "",
+      "initials": "NHSE",
+      "status": "ok"
+    },
+    {
+      "name": "NHS England e-Learning for Healthcare",
+      "category": "Regulators, NHS & Government",
+      "description": "Free NHS e-learning, including the R-ITI radiology programme.",
+      "url": "https://www.e-lfh.org.uk",
+      "icon": "",
+      "initials": "elfh",
+      "status": "ok"
+    },
+    {
+      "name": "NHS Jobs",
+      "category": "Regulators, NHS & Government",
+      "description": "Official NHS recruitment website.",
+      "url": "https://www.jobs.nhs.uk",
+      "icon": "",
+      "initials": "Jobs",
+      "status": "ok"
+    },
+    {
+      "name": "NHS Employers",
+      "category": "Regulators, NHS & Government",
+      "description": "Pay, terms and conditions guidance for NHS staff.",
+      "url": "https://www.nhsemployers.org",
+      "icon": "",
+      "initials": "NHSEmp",
+      "status": "ok"
+    },
+    {
+      "name": "NHS Pensions",
+      "category": "Regulators, NHS & Government",
+      "description": "NHS Business Services Authority pension scheme information.",
+      "url": "https://www.nhsbsa.nhs.uk/nhs-pensions",
+      "icon": "",
+      "initials": "NHSP",
+      "status": "verify"
+    },
+    {
+      "name": "National Institute for Health and Care Excellence",
+      "category": "Regulators, NHS & Government",
+      "description": "Evidence-based clinical guidelines and technology appraisals.",
+      "url": "https://www.nice.org.uk",
+      "icon": "",
+      "initials": "NICE",
+      "status": "ok"
+    },
+    {
+      "name": "Care Quality Commission",
+      "category": "Regulators, NHS & Government",
+      "description": "Independent regulator of health and social care in England.",
+      "url": "https://www.cqc.org.uk",
+      "icon": "",
+      "initials": "CQC",
+      "status": "ok"
+    },
+    {
+      "name": "Medicines and Healthcare products Regulatory Agency",
+      "category": "Regulators, NHS & Government",
+      "description": "UK regulator of medicines and medical devices, including AI as a medical device.",
+      "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+      "icon": "",
+      "initials": "MHRA",
+      "status": "ok"
+    },
+    {
+      "name": "Health Research Authority",
+      "category": "Regulators, NHS & Government",
+      "description": "Approvals and governance for NHS research.",
+      "url": "https://www.hra.nhs.uk",
+      "icon": "",
+      "initials": "HRA",
+      "status": "ok"
+    },
+    {
+      "name": "National Institute for Health and Care Research",
+      "category": "Regulators, NHS & Government",
+      "description": "UK government funder of health and care research.",
+      "url": "https://www.nihr.ac.uk",
+      "icon": "",
+      "initials": "NIHR",
+      "status": "ok"
+    },
+    {
+      "name": "HM Revenue & Customs",
+      "category": "Regulators, NHS & Government",
+      "description": "UK tax authority; self assessment and pensions tax.",
+      "url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+      "icon": "",
+      "initials": "HMRC",
+      "status": "ok"
+    },
+    {
+      "name": "Radiology",
+      "category": "Radiology & Medical Journals",
+      "description": "RSNA's flagship peer-reviewed journal.",
+      "url": "https://pubs.rsna.org/journal/radiology",
+      "icon": "",
+      "initials": "Rad",
+      "status": "ok"
+    },
+    {
+      "name": "RadioGraphics",
+      "category": "Radiology & Medical Journals",
+      "description": "RSNA's education-focused review journal.",
+      "url": "https://pubs.rsna.org/journal/radiographics",
+      "icon": "",
+      "initials": "RG",
+      "status": "ok"
+    },
+    {
+      "name": "Radiology: Artificial Intelligence",
+      "category": "Radiology & Medical Journals",
+      "description": "RSNA journal on AI in imaging.",
+      "url": "https://pubs.rsna.org/journal/ai",
+      "icon": "",
+      "initials": "RadAI",
+      "status": "ok"
+    },
+    {
+      "name": "American Journal of Roentgenology",
+      "category": "Radiology & Medical Journals",
+      "description": "ARRS's peer-reviewed radiology journal.",
+      "url": "https://www.ajronline.org",
+      "icon": "",
+      "initials": "AJR",
+      "status": "ok"
+    },
+    {
+      "name": "British Journal of Radiology",
+      "category": "Radiology & Medical Journals",
+      "description": "BIR's peer-reviewed journal (published with Oxford University Press).",
+      "url": "https://academic.oup.com/bjr",
+      "icon": "",
+      "initials": "BJR",
+      "status": "verify"
+    },
+    {
+      "name": "Clinical Radiology",
+      "category": "Radiology & Medical Journals",
+      "description": "RCR's peer-reviewed journal.",
+      "url": "https://www.clinicalradiologyonline.net",
+      "icon": "",
+      "initials": "CR",
+      "status": "ok"
+    },
+    {
+      "name": "European Radiology",
+      "category": "Radiology & Medical Journals",
+      "description": "ESR's flagship journal.",
+      "url": "https://link.springer.com/journal/330",
+      "icon": "",
+      "initials": "EurRad",
+      "status": "ok"
+    },
+    {
+      "name": "Insights into Imaging",
+      "category": "Radiology & Medical Journals",
+      "description": "ESR's open-access education and policy journal.",
+      "url": "https://insightsimaging.springeropen.com",
+      "icon": "",
+      "initials": "InsImg",
+      "status": "ok"
+    },
+    {
+      "name": "American Journal of Neuroradiology",
+      "category": "Radiology & Medical Journals",
+      "description": "ASNR's neuroradiology journal.",
+      "url": "https://www.ajnr.org",
+      "icon": "",
+      "initials": "AJNR",
+      "status": "ok"
+    },
+    {
+      "name": "Journal of the American College of Radiology",
+      "category": "Radiology & Medical Journals",
+      "description": "ACR journal on practice, policy and quality.",
+      "url": "https://www.jacr.org",
+      "icon": "",
+      "initials": "JACR",
+      "status": "ok"
+    },
+    {
+      "name": "Journal of NeuroInterventional Surgery",
+      "category": "Radiology & Medical Journals",
+      "description": "BMJ journal for neurointerventional practice and stroke thrombectomy.",
+      "url": "https://jnis.bmj.com",
+      "icon": "",
+      "initials": "JNIS",
+      "status": "ok"
+    },
+    {
+      "name": "Stroke",
+      "category": "Radiology & Medical Journals",
+      "description": "American Heart Association journal on cerebrovascular disease.",
+      "url": "https://www.ahajournals.org/journal/str",
+      "icon": "",
+      "initials": "Stroke",
+      "status": "ok"
+    },
+    {
+      "name": "The Lancet",
+      "category": "Radiology & Medical Journals",
+      "description": "General medical journal.",
+      "url": "https://www.thelancet.com",
+      "icon": "",
+      "initials": "Lancet",
+      "status": "ok"
+    },
+    {
+      "name": "The BMJ",
+      "category": "Radiology & Medical Journals",
+      "description": "General medical journal of the British Medical Association.",
+      "url": "https://www.bmj.com",
+      "icon": "",
+      "initials": "BMJ",
+      "status": "ok"
+    },
+    {
+      "name": "New England Journal of Medicine",
+      "category": "Radiology & Medical Journals",
+      "description": "General medical journal.",
+      "url": "https://www.nejm.org",
+      "icon": "",
+      "initials": "NEJM",
+      "status": "ok"
+    },
+    {
+      "name": "JAMA Network",
+      "category": "Radiology & Medical Journals",
+      "description": "JAMA and its specialty journals.",
+      "url": "https://jamanetwork.com",
+      "icon": "",
+      "initials": "JAMA",
+      "status": "ok"
+    },
+    {
+      "name": "Radiopaedia",
+      "category": "Clinical & Research Tools",
+      "description": "Open-edit radiology reference articles and cases.",
+      "url": "https://radiopaedia.org",
+      "icon": "",
+      "initials": "Rp",
+      "status": "ok"
+    },
+    {
+      "name": "PubMed",
+      "category": "Clinical & Research Tools",
+      "description": "NLM database of biomedical literature.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov",
+      "icon": "pubmed",
+      "status": "ok"
+    },
+    {
+      "name": "Google Scholar",
+      "category": "Clinical & Research Tools",
+      "description": "Search engine for scholarly literature and citation metrics.",
+      "url": "https://scholar.google.com",
+      "icon": "googlescholar",
+      "status": "ok"
+    },
+    {
+      "name": "ORCID",
+      "category": "Clinical & Research Tools",
+      "description": "Persistent unique identifier for researchers.",
+      "url": "https://orcid.org",
+      "icon": "orcid",
+      "status": "ok"
+    },
+    {
+      "name": "Scopus",
+      "category": "Clinical & Research Tools",
+      "description": "Elsevier abstract and citation database.",
+      "url": "https://www.scopus.com",
+      "icon": "scopus",
+      "status": "ok"
+    },
+    {
+      "name": "Semantic Scholar",
+      "category": "Clinical & Research Tools",
+      "description": "AI-assisted free search for scientific literature.",
+      "url": "https://www.semanticscholar.org",
+      "icon": "semanticscholar",
+      "status": "ok"
+    },
+    {
+      "name": "Cochrane Library",
+      "category": "Clinical & Research Tools",
+      "description": "Systematic reviews and evidence synthesis.",
+      "url": "https://www.cochranelibrary.com",
+      "icon": "",
+      "initials": "Cochrane",
+      "status": "ok"
+    },
+    {
+      "name": "ClinicalTrials.gov",
+      "category": "Clinical & Research Tools",
+      "description": "US registry of clinical trials.",
+      "url": "https://clinicaltrials.gov",
+      "icon": "",
+      "initials": "CT.gov",
+      "status": "ok"
+    },
+    {
+      "name": "EQUATOR Network",
+      "category": "Clinical & Research Tools",
+      "description": "Reporting guidelines (STARD, CONSORT, PRISMA, CLAIM).",
+      "url": "https://www.equator-network.org",
+      "icon": "",
+      "initials": "EQUATOR",
+      "status": "ok"
+    },
+    {
+      "name": "IMAIOS e-Anatomy",
+      "category": "Clinical & Research Tools",
+      "description": "Interactive cross-sectional anatomy atlas.",
+      "url": "https://www.imaios.com",
+      "icon": "",
+      "initials": "IMAIOS",
+      "status": "ok"
+    },
+    {
+      "name": "ResearchGate",
+      "category": "Clinical & Research Tools",
+      "description": "Network for sharing research papers.",
+      "url": "https://www.researchgate.net",
+      "icon": "researchgate",
+      "status": "ok"
+    },
+    {
+      "name": "Zotero",
+      "category": "Clinical & Research Tools",
+      "description": "Free open-source reference manager.",
+      "url": "https://www.zotero.org",
+      "icon": "zotero",
+      "status": "ok"
+    },
+    {
+      "name": "Mendeley",
+      "category": "Clinical & Research Tools",
+      "description": "Elsevier reference manager.",
+      "url": "https://www.mendeley.com",
+      "icon": "mendeley",
+      "status": "ok"
+    },
+    {
+      "name": "medRxiv",
+      "category": "Clinical & Research Tools",
+      "description": "Preprint server for health sciences.",
+      "url": "https://www.medrxiv.org",
+      "icon": "",
+      "initials": "medRxiv",
+      "status": "ok"
+    },
+    {
+      "name": "Anthropic",
+      "category": "AI & Technology",
+      "description": "AI safety company that builds Claude.",
+      "url": "https://www.anthropic.com",
+      "icon": "anthropic",
+      "status": "ok"
+    },
+    {
+      "name": "Claude",
+      "category": "AI & Technology",
+      "description": "Anthropic's AI assistant.",
+      "url": "https://claude.ai",
+      "icon": "claude",
+      "status": "ok"
+    },
+    {
+      "name": "OpenAI",
+      "category": "AI & Technology",
+      "description": "AI company behind ChatGPT.",
+      "url": "https://openai.com",
+      "icon": "",
+      "initials": "OpenAI",
+      "status": "ok"
+    },
+    {
+      "name": "Google Gemini",
+      "category": "AI & Technology",
+      "description": "Google's AI assistant.",
+      "url": "https://gemini.google.com",
+      "icon": "googlegemini",
+      "status": "ok"
+    },
+    {
+      "name": "Google DeepMind",
+      "category": "AI & Technology",
+      "description": "Google's AI research laboratory.",
+      "url": "https://deepmind.google",
+      "icon": "deepmind",
+      "status": "ok"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "category": "AI & Technology",
+      "description": "Microsoft's AI assistant.",
+      "url": "https://copilot.microsoft.com",
+      "icon": "",
+      "initials": "Copilot",
+      "status": "ok"
+    },
+    {
+      "name": "Perplexity",
+      "category": "AI & Technology",
+      "description": "AI search engine with cited sources.",
+      "url": "https://www.perplexity.ai",
+      "icon": "perplexity",
+      "status": "ok"
+    },
+    {
+      "name": "Hugging Face",
+      "category": "AI & Technology",
+      "description": "Hub for open-source AI models and datasets.",
+      "url": "https://huggingface.co",
+      "icon": "huggingface",
+      "status": "ok"
+    },
+    {
+      "name": "NVIDIA",
+      "category": "AI & Technology",
+      "description": "GPUs and AI platforms, including Clara for medical imaging.",
+      "url": "https://www.nvidia.com",
+      "icon": "nvidia",
+      "status": "ok"
+    },
+    {
+      "name": "GitHub",
+      "category": "AI & Technology",
+      "description": "Code hosting; also hosts this directory via GitHub Pages.",
+      "url": "https://github.com",
+      "icon": "github",
+      "status": "ok"
+    },
+    {
+      "name": "Google Drive",
+      "category": "AI & Technology",
+      "description": "Cloud file storage and sharing.",
+      "url": "https://drive.google.com",
+      "icon": "googledrive",
+      "status": "ok"
+    },
+    {
+      "name": "Dropbox",
+      "category": "AI & Technology",
+      "description": "Cloud file storage and sharing.",
+      "url": "https://www.dropbox.com",
+      "icon": "dropbox",
+      "status": "ok"
+    },
+    {
+      "name": "Notion",
+      "category": "AI & Technology",
+      "description": "Notes, wikis and project organisation.",
+      "url": "https://www.notion.so",
+      "icon": "notion",
+      "status": "ok"
+    },
+    {
+      "name": "Zoom",
+      "category": "AI & Technology",
+      "description": "Video meetings and webinars.",
+      "url": "https://zoom.us",
+      "icon": "zoom",
+      "status": "ok"
+    },
+    {
+      "name": "Vanguard UK",
+      "category": "Finance & Investing",
+      "description": "Low-cost index funds, ISAs and SIPPs.",
+      "url": "https://www.vanguardinvestor.co.uk",
+      "icon": "",
+      "initials": "Vanguard",
+      "status": "ok"
+    },
+    {
+      "name": "Hargreaves Lansdown",
+      "category": "Finance & Investing",
+      "description": "UK investment platform: ISAs, SIPPs, funds and shares.",
+      "url": "https://www.hl.co.uk",
+      "icon": "",
+      "initials": "HL",
+      "status": "ok"
+    },
+    {
+      "name": "AJ Bell",
+      "category": "Finance & Investing",
+      "description": "UK investment platform: ISAs, SIPPs, funds and shares.",
+      "url": "https://www.ajbell.co.uk",
+      "icon": "",
+      "initials": "AJB",
+      "status": "ok"
+    },
+    {
+      "name": "interactive investor",
+      "category": "Finance & Investing",
+      "description": "UK flat-fee investment platform.",
+      "url": "https://www.ii.co.uk",
+      "icon": "",
+      "initials": "ii",
+      "status": "ok"
+    },
+    {
+      "name": "Fidelity International (UK)",
+      "category": "Finance & Investing",
+      "description": "UK investment platform and fund manager.",
+      "url": "https://www.fidelity.co.uk",
+      "icon": "",
+      "initials": "Fidelity",
+      "status": "ok"
+    },
+    {
+      "name": "Trading 212",
+      "category": "Finance & Investing",
+      "description": "Commission-free share dealing and Stocks & Shares ISA.",
+      "url": "https://www.trading212.com",
+      "icon": "",
+      "initials": "T212",
+      "status": "ok"
+    },
+    {
+      "name": "Interactive Brokers UK",
+      "category": "Finance & Investing",
+      "description": "Low-cost international brokerage.",
+      "url": "https://www.interactivebrokers.co.uk",
+      "icon": "",
+      "initials": "IBKR",
+      "status": "ok"
+    },
+    {
+      "name": "TradingView",
+      "category": "Finance & Investing",
+      "description": "Charting and market screening.",
+      "url": "https://www.tradingview.com",
+      "icon": "tradingview",
+      "status": "ok"
+    },
+    {
+      "name": "Morningstar UK",
+      "category": "Finance & Investing",
+      "description": "Fund and share research and ratings.",
+      "url": "https://www.morningstar.co.uk",
+      "icon": "",
+      "initials": "MStar",
+      "status": "ok"
+    },
+    {
+      "name": "Yahoo Finance",
+      "category": "Finance & Investing",
+      "description": "Free market data, quotes and news.",
+      "url": "https://finance.yahoo.com",
+      "icon": "",
+      "initials": "YF",
+      "status": "ok"
+    },
+    {
+      "name": "Financial Times",
+      "category": "Finance & Investing",
+      "description": "Global business and financial news.",
+      "url": "https://www.ft.com",
+      "icon": "",
+      "initials": "FT",
+      "status": "ok"
+    },
+    {
+      "name": "MoneySavingExpert",
+      "category": "Finance & Investing",
+      "description": "UK consumer finance guides and comparisons.",
+      "url": "https://www.moneysavingexpert.com",
+      "icon": "",
+      "initials": "MSE",
+      "status": "ok"
+    },
+    {
+      "name": "Monzo",
+      "category": "Finance & Investing",
+      "description": "UK digital bank.",
+      "url": "https://monzo.com",
+      "icon": "monzo",
+      "status": "ok"
+    },
+    {
+      "name": "Wise",
+      "category": "Finance & Investing",
+      "description": "International money transfers and multi-currency accounts.",
+      "url": "https://wise.com",
+      "icon": "wise",
+      "status": "ok"
+    },
+    {
+      "name": "LinkedIn",
+      "category": "Social & Professional Networks",
+      "description": "Professional networking and recruitment.",
+      "url": "https://www.linkedin.com",
+      "icon": "",
+      "initials": "in",
+      "status": "ok"
+    },
+    {
+      "name": "X (formerly Twitter)",
+      "category": "Social & Professional Networks",
+      "description": "Microblogging; active #RadTwitter / #MedEd community.",
+      "url": "https://x.com",
+      "icon": "x",
+      "status": "ok"
+    },
+    {
+      "name": "Bluesky",
+      "category": "Social & Professional Networks",
+      "description": "Decentralised microblogging network.",
+      "url": "https://bsky.app",
+      "icon": "bluesky",
+      "status": "ok"
+    },
+    {
+      "name": "Threads",
+      "category": "Social & Professional Networks",
+      "description": "Meta's text-based social network.",
+      "url": "https://www.threads.com",
+      "icon": "threads",
+      "status": "verify"
+    },
+    {
+      "name": "YouTube",
+      "category": "Social & Professional Networks",
+      "description": "Video platform; lectures and case reviews.",
+      "url": "https://www.youtube.com",
+      "icon": "youtube",
+      "status": "ok"
+    },
+    {
+      "name": "Facebook",
+      "category": "Social & Professional Networks",
+      "description": "Social network and groups.",
+      "url": "https://www.facebook.com",
+      "icon": "facebook",
+      "status": "ok"
+    },
+    {
+      "name": "Instagram",
+      "category": "Social & Professional Networks",
+      "description": "Photo and short-video sharing.",
+      "url": "https://www.instagram.com",
+      "icon": "instagram",
+      "status": "ok"
+    },
+    {
+      "name": "WhatsApp",
+      "category": "Social & Professional Networks",
+      "description": "Messaging (avoid patient-identifiable information).",
+      "url": "https://www.whatsapp.com",
+      "icon": "whatsapp",
+      "status": "ok"
+    },
+    {
+      "name": "Doximity",
+      "category": "Social & Professional Networks",
+      "description": "Professional network for US physicians.",
+      "url": "https://www.doximity.com",
+      "icon": "",
+      "initials": "Dox",
+      "status": "ok"
+    },
+    {
+      "name": "Medscape",
+      "category": "Social & Professional Networks",
+      "description": "Medical news, CME and drug reference.",
+      "url": "https://www.medscape.com",
+      "icon": "",
+      "initials": "Medscape",
+      "status": "ok"
+    },
+    {
+      "name": "Blogger",
+      "category": "Publishing & Writing Tools",
+      "description": "Google's free blogging platform.",
+      "url": "https://www.blogger.com",
+      "icon": "blogger",
+      "status": "ok"
+    },
+    {
+      "name": "WordPress.com",
+      "category": "Publishing & Writing Tools",
+      "description": "Hosted blogs and websites.",
+      "url": "https://wordpress.com",
+      "icon": "wordpress",
+      "status": "ok"
+    },
+    {
+      "name": "Substack",
+      "category": "Publishing & Writing Tools",
+      "description": "Newsletters and paid subscriptions.",
+      "url": "https://substack.com",
+      "icon": "substack",
+      "status": "ok"
+    },
+    {
+      "name": "Medium",
+      "category": "Publishing & Writing Tools",
+      "description": "Online publishing platform for articles.",
+      "url": "https://medium.com",
+      "icon": "medium",
+      "status": "ok"
+    },
+    {
+      "name": "GitHub Pages",
+      "category": "Publishing & Writing Tools",
+      "description": "Free static website hosting from a GitHub repository.",
+      "url": "https://pages.github.com",
+      "icon": "githubpages",
+      "status": "ok"
+    },
+    {
+      "name": "Canva",
+      "category": "Publishing & Writing Tools",
+      "description": "Online design for posters, slides and social graphics.",
+      "url": "https://www.canva.com",
+      "icon": "",
+      "initials": "Canva",
+      "status": "ok"
+    },
+    {
+      "name": "Overleaf",
+      "category": "Publishing & Writing Tools",
+      "description": "Online LaTeX editor with journal templates.",
+      "url": "https://www.overleaf.com",
+      "icon": "overleaf",
+      "status": "ok"
+    },
+    {
+      "name": "Grammarly",
+      "category": "Publishing & Writing Tools",
+      "description": "Writing assistant for grammar and clarity.",
+      "url": "https://www.grammarly.com",
+      "icon": "grammarly",
+      "status": "ok"
+    },
+    {
+      "name": "Zenodo",
+      "category": "Publishing & Writing Tools",
+      "description": "Open repository for research outputs with DOIs (CERN).",
+      "url": "https://zenodo.org",
+      "icon": "zenodo",
+      "status": "ok"
+    }
+  ]
+}
