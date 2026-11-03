@@ -44,7 +44,7 @@
       "url": "https://www.bsnr.org.uk",
       "icon": "",
       "initials": "BSNR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "British Society of Thoracic Imaging",
@@ -62,7 +62,7 @@
       "url": "https://www.bsgar.org",
       "icon": "",
       "initials": "BSGAR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "British Society of Skeletal Radiologists",
@@ -71,7 +71,7 @@
       "url": "https://www.bssr.org.uk",
       "icon": "",
       "initials": "BSSR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "British Medical Ultrasound Society",
@@ -161,7 +161,7 @@
       "url": "https://www.myesr.org/congress",
       "icon": "",
       "initials": "ECR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "European Board of Radiology",
@@ -170,7 +170,7 @@
       "url": "https://www.myebr.org",
       "icon": "",
       "initials": "EBR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "American College of Radiology",
@@ -233,7 +233,7 @@
       "url": "https://www.myesti.org",
       "icon": "",
       "initials": "ESTI",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "European Society of Musculoskeletal Radiology",
@@ -341,7 +341,7 @@
       "url": "https://www.nhsbsa.nhs.uk/nhs-pensions",
       "icon": "",
       "initials": "NHSP",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "National Institute for Health and Care Excellence",
@@ -440,7 +440,7 @@
       "url": "https://academic.oup.com/bjr",
       "icon": "",
       "initials": "BJR",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "Clinical Radiology",
@@ -927,7 +927,7 @@
       "description": "Meta's text-based social network.",
       "url": "https://www.threads.com",
       "icon": "threads",
-      "status": "verify"
+      "status": "ok"
     },
     {
       "name": "YouTube",
